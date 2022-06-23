@@ -5,4 +5,4 @@
 
 ## Results
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6712776973682302976" height="589" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6712776973682302976
